@@ -1,0 +1,109 @@
+Fempack_v1.2
+Moved Fempack_v1.2\assets\minecraft\textures\models folder to Fempack_v1.2\assets\minecraft
+
+Added
+Fempack_v1.2\assets\minecraft\models\item folder containing end_crystal.txt
+Fempack_v1.2\assets\minecraft\textures\item folder containing end_crystal.png
+
+So the endercrystal is 3D now <3
+
+-OliverIGuess
+
+Fempack_v1.3
+Changed the diamond_sword texture to Astolfo's sword forom the Anime
+
+-OliverIGuess
+
+Fempack_v1.4
+Added Fempack_v1.3\assets\minecraft\textures\models folder containing the armor textures (not inv but when you wear them)
+
+-OliverIGuess
+
+Fempack_v1.4.1
+Changed the diamond armor textures (when you wear it not the 2d textures)
+(original textures are still in Fempack_v1.4.2.zip\assets\minecraft\models\armor)
+(changed textures are in Fempack_v1.4.2.zip\assets\minecraft\textures\models\armor)
+
+-OliverIGuess
+
+Fempack_1.4.2 
+Changed Totem texture to https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftypemoon%2Fimages%2F8%2F88%2FAstolfo_Agartha.png%2Frevision%2Flatest%3Fcb%3D20180115195143&f=1&nofb=1
+(old totem texture but higher rezolution) and scaled it down a bit so minecraft accepts it (580x by 580x)
+
+-OliverIGuess
+
+Fempack_v1.5
+Changed elytra textures
+
+-OliverIGuess
+
+Fempack_v1.5.1
+Added backgrounds in assets for later use.
+Also added OliverIGuess to the pack.mcmeta :^)
+
+-opentuesday
+
+Fempack_v1.6.0
+Added bed textures from whomstrve#3173 😘
+
+-opentuesday
+
+Fempack_1.6.1
+Changed colours of pack 
+(this involves changing the zip name and name in pack.mcmeta)
+Adjusted/fixed the diamond-hoe and shovel so they don't have dark blue boarders anymore but are pink and fit in with the rest of the diamond tools
+
+-OliverIGuess
+
+Fempack_v1.6.2
+Changed the elytra textures to match Astolfo's cape
+
+-OliverIGuess
+
+Fempack_v1.6.3
+Added hd bub to the beds
+
+-opentuesday
+
+Fempack_v1.6.4
+Added gapple 
+
+-opentuesday
+
+Fempack_v1.6.5
+Added cute pink criticals
+
+-opentuesday
+
+Fempack_v1.7
+Added 
+- New pearl
+- More cute pink particals :3
+- New gapple finally...
+- New Exp bottle
+- New cute armor by @tesco#3849 (tell him hes cute plz)
+- Made the file name less ugly
+
+-opentuesday :3
+
+Fempack_v1.8
+Added
+- new ish pearl
+- more pink particals :heart_eyes:
+- new bedrock :3
+- re added old sword but with an edit
+- made items smol
+
+-opentuesday :3
+
+Fempack_v1.8.1
+Added
+- New totem
+
+-opentuesday :3
+
+Fempack_v1.8.2
+Added
+- icons now has pink hearts and pink connection icons
+
+-opentuesday :3 ( edit by Faxren [Astolfo Fan] )

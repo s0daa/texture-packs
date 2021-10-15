@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "items/chorus_fruit"
+    },
+	"display": {
+	"firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 2, 0.0 ],
+            "scale": [ 0.3, 0.3, 0.8 ]
+        }
+		 
+	}
+}
